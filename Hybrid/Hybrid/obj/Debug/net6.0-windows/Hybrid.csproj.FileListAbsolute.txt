@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\Hybrid\Hybrid\bin\Debug\net6.0-windows\Hybrid.exe
+C:\Users\rodri\source\repos\Hybrid\Hybrid\bin\Debug\net6.0-windows\Hybrid.deps.json
+C:\Users\rodri\source\repos\Hybrid\Hybrid\bin\Debug\net6.0-windows\Hybrid.runtimeconfig.json
+C:\Users\rodri\source\repos\Hybrid\Hybrid\bin\Debug\net6.0-windows\Hybrid.dll
+C:\Users\rodri\source\repos\Hybrid\Hybrid\bin\Debug\net6.0-windows\Hybrid.pdb
+C:\Users\rodri\source\repos\Hybrid\Hybrid\obj\Debug\net6.0-windows\Hybrid.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Hybrid\Hybrid\obj\Debug\net6.0-windows\Hybrid.Form1.resources
+C:\Users\rodri\source\repos\Hybrid\Hybrid\obj\Debug\net6.0-windows\Hybrid.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\Hybrid\Hybrid\obj\Debug\net6.0-windows\Hybrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Hybrid\Hybrid\obj\Debug\net6.0-windows\Hybrid.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Hybrid\Hybrid\obj\Debug\net6.0-windows\Hybrid.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Hybrid\Hybrid\obj\Debug\net6.0-windows\Hybrid.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Hybrid\Hybrid\obj\Debug\net6.0-windows\Hybrid.dll
+C:\Users\rodri\source\repos\Hybrid\Hybrid\obj\Debug\net6.0-windows\refint\Hybrid.dll
+C:\Users\rodri\source\repos\Hybrid\Hybrid\obj\Debug\net6.0-windows\Hybrid.pdb
+C:\Users\rodri\source\repos\Hybrid\Hybrid\obj\Debug\net6.0-windows\Hybrid.genruntimeconfig.cache
+C:\Users\rodri\source\repos\Hybrid\Hybrid\obj\Debug\net6.0-windows\ref\Hybrid.dll
