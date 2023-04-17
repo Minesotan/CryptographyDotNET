@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\Derivation\Derivation\bin\Debug\net6.0-windows\Derivation.exe
+C:\Users\rodri\source\repos\Derivation\Derivation\bin\Debug\net6.0-windows\Derivation.deps.json
+C:\Users\rodri\source\repos\Derivation\Derivation\bin\Debug\net6.0-windows\Derivation.runtimeconfig.json
+C:\Users\rodri\source\repos\Derivation\Derivation\bin\Debug\net6.0-windows\Derivation.dll
+C:\Users\rodri\source\repos\Derivation\Derivation\bin\Debug\net6.0-windows\Derivation.pdb
+C:\Users\rodri\source\repos\Derivation\Derivation\obj\Debug\net6.0-windows\Derivation.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Derivation\Derivation\obj\Debug\net6.0-windows\Derivation.Form1.resources
+C:\Users\rodri\source\repos\Derivation\Derivation\obj\Debug\net6.0-windows\Derivation.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\Derivation\Derivation\obj\Debug\net6.0-windows\Derivation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Derivation\Derivation\obj\Debug\net6.0-windows\Derivation.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Derivation\Derivation\obj\Debug\net6.0-windows\Derivation.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Derivation\Derivation\obj\Debug\net6.0-windows\Derivation.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Derivation\Derivation\obj\Debug\net6.0-windows\Derivation.dll
+C:\Users\rodri\source\repos\Derivation\Derivation\obj\Debug\net6.0-windows\refint\Derivation.dll
+C:\Users\rodri\source\repos\Derivation\Derivation\obj\Debug\net6.0-windows\Derivation.pdb
+C:\Users\rodri\source\repos\Derivation\Derivation\obj\Debug\net6.0-windows\Derivation.genruntimeconfig.cache
+C:\Users\rodri\source\repos\Derivation\Derivation\obj\Debug\net6.0-windows\ref\Derivation.dll
