@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\Hashing\Hashing\bin\Debug\net6.0-windows\Hashing.exe
+C:\Users\rodri\source\repos\Hashing\Hashing\bin\Debug\net6.0-windows\Hashing.deps.json
+C:\Users\rodri\source\repos\Hashing\Hashing\bin\Debug\net6.0-windows\Hashing.runtimeconfig.json
+C:\Users\rodri\source\repos\Hashing\Hashing\bin\Debug\net6.0-windows\Hashing.dll
+C:\Users\rodri\source\repos\Hashing\Hashing\bin\Debug\net6.0-windows\Hashing.pdb
+C:\Users\rodri\source\repos\Hashing\Hashing\obj\Debug\net6.0-windows\Hashing.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Hashing\Hashing\obj\Debug\net6.0-windows\Hashing.Form1.resources
+C:\Users\rodri\source\repos\Hashing\Hashing\obj\Debug\net6.0-windows\Hashing.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\Hashing\Hashing\obj\Debug\net6.0-windows\Hashing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Hashing\Hashing\obj\Debug\net6.0-windows\Hashing.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Hashing\Hashing\obj\Debug\net6.0-windows\Hashing.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Hashing\Hashing\obj\Debug\net6.0-windows\Hashing.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Hashing\Hashing\obj\Debug\net6.0-windows\Hashing.dll
+C:\Users\rodri\source\repos\Hashing\Hashing\obj\Debug\net6.0-windows\refint\Hashing.dll
+C:\Users\rodri\source\repos\Hashing\Hashing\obj\Debug\net6.0-windows\Hashing.pdb
+C:\Users\rodri\source\repos\Hashing\Hashing\obj\Debug\net6.0-windows\Hashing.genruntimeconfig.cache
+C:\Users\rodri\source\repos\Hashing\Hashing\obj\Debug\net6.0-windows\ref\Hashing.dll
