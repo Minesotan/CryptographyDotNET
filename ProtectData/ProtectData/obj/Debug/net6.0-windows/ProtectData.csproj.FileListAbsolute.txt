@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\ProtectData\ProtectData\bin\Debug\net6.0-windows\ProtectData.exe
+C:\Users\rodri\source\repos\ProtectData\ProtectData\bin\Debug\net6.0-windows\ProtectData.deps.json
+C:\Users\rodri\source\repos\ProtectData\ProtectData\bin\Debug\net6.0-windows\ProtectData.runtimeconfig.json
+C:\Users\rodri\source\repos\ProtectData\ProtectData\bin\Debug\net6.0-windows\ProtectData.dll
+C:\Users\rodri\source\repos\ProtectData\ProtectData\bin\Debug\net6.0-windows\ProtectData.pdb
+C:\Users\rodri\source\repos\ProtectData\ProtectData\obj\Debug\net6.0-windows\ProtectData.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ProtectData\ProtectData\obj\Debug\net6.0-windows\ProtectData.Form1.resources
+C:\Users\rodri\source\repos\ProtectData\ProtectData\obj\Debug\net6.0-windows\ProtectData.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\ProtectData\ProtectData\obj\Debug\net6.0-windows\ProtectData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\ProtectData\ProtectData\obj\Debug\net6.0-windows\ProtectData.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\ProtectData\ProtectData\obj\Debug\net6.0-windows\ProtectData.AssemblyInfo.cs
+C:\Users\rodri\source\repos\ProtectData\ProtectData\obj\Debug\net6.0-windows\ProtectData.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ProtectData\ProtectData\obj\Debug\net6.0-windows\ProtectData.dll
+C:\Users\rodri\source\repos\ProtectData\ProtectData\obj\Debug\net6.0-windows\refint\ProtectData.dll
+C:\Users\rodri\source\repos\ProtectData\ProtectData\obj\Debug\net6.0-windows\ProtectData.pdb
+C:\Users\rodri\source\repos\ProtectData\ProtectData\obj\Debug\net6.0-windows\ProtectData.genruntimeconfig.cache
+C:\Users\rodri\source\repos\ProtectData\ProtectData\obj\Debug\net6.0-windows\ref\ProtectData.dll
