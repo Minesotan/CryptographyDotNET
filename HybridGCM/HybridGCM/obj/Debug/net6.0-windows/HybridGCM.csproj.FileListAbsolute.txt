@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\bin\Debug\net6.0-windows\HybridGCM.exe
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\bin\Debug\net6.0-windows\HybridGCM.deps.json
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\bin\Debug\net6.0-windows\HybridGCM.runtimeconfig.json
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\bin\Debug\net6.0-windows\HybridGCM.dll
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\bin\Debug\net6.0-windows\HybridGCM.pdb
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\obj\Debug\net6.0-windows\HybridGCM.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\obj\Debug\net6.0-windows\HybridGCM.Form1.resources
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\obj\Debug\net6.0-windows\HybridGCM.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\obj\Debug\net6.0-windows\HybridGCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\obj\Debug\net6.0-windows\HybridGCM.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\obj\Debug\net6.0-windows\HybridGCM.AssemblyInfo.cs
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\obj\Debug\net6.0-windows\HybridGCM.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\obj\Debug\net6.0-windows\HybridGCM.dll
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\obj\Debug\net6.0-windows\refint\HybridGCM.dll
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\obj\Debug\net6.0-windows\HybridGCM.pdb
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\obj\Debug\net6.0-windows\HybridGCM.genruntimeconfig.cache
+C:\Users\rodri\source\repos\HybridGCM\HybridGCM\obj\Debug\net6.0-windows\ref\HybridGCM.dll
