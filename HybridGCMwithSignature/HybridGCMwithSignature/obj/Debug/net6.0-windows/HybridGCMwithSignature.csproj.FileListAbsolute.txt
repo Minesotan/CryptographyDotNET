@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\bin\Debug\net6.0-windows\HybridGCMwithSignature.exe
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\bin\Debug\net6.0-windows\HybridGCMwithSignature.deps.json
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\bin\Debug\net6.0-windows\HybridGCMwithSignature.runtimeconfig.json
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\bin\Debug\net6.0-windows\HybridGCMwithSignature.dll
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\bin\Debug\net6.0-windows\HybridGCMwithSignature.pdb
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\obj\Debug\net6.0-windows\HybridGCMwithSignature.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\obj\Debug\net6.0-windows\HybridGCMwithSignature.Form1.resources
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\obj\Debug\net6.0-windows\HybridGCMwithSignature.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\obj\Debug\net6.0-windows\HybridGCMwithSignature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\obj\Debug\net6.0-windows\HybridGCMwithSignature.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\obj\Debug\net6.0-windows\HybridGCMwithSignature.AssemblyInfo.cs
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\obj\Debug\net6.0-windows\HybridGCMwithSignature.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\obj\Debug\net6.0-windows\HybridGCMwithSignature.dll
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\obj\Debug\net6.0-windows\refint\HybridGCMwithSignature.dll
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\obj\Debug\net6.0-windows\HybridGCMwithSignature.pdb
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\obj\Debug\net6.0-windows\HybridGCMwithSignature.genruntimeconfig.cache
+C:\Users\rodri\source\repos\HybridGCMwithSignature\HybridGCMwithSignature\obj\Debug\net6.0-windows\ref\HybridGCMwithSignature.dll
