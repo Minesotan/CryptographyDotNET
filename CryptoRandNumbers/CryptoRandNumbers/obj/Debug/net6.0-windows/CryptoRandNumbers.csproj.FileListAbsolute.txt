@@ -1,0 +1,17 @@
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\bin\Debug\net6.0-windows\CryptoRandNumbers.exe
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\bin\Debug\net6.0-windows\CryptoRandNumbers.deps.json
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\bin\Debug\net6.0-windows\CryptoRandNumbers.runtimeconfig.json
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\bin\Debug\net6.0-windows\CryptoRandNumbers.dll
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\bin\Debug\net6.0-windows\CryptoRandNumbers.pdb
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\obj\Debug\net6.0-windows\CryptoRandNumbers.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\obj\Debug\net6.0-windows\CryptoRandNumbers.Form1.resources
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\obj\Debug\net6.0-windows\CryptoRandNumbers.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\obj\Debug\net6.0-windows\CryptoRandNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\obj\Debug\net6.0-windows\CryptoRandNumbers.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\obj\Debug\net6.0-windows\CryptoRandNumbers.AssemblyInfo.cs
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\obj\Debug\net6.0-windows\CryptoRandNumbers.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\obj\Debug\net6.0-windows\CryptoRandNumbers.dll
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\obj\Debug\net6.0-windows\refint\CryptoRandNumbers.dll
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\obj\Debug\net6.0-windows\CryptoRandNumbers.pdb
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\obj\Debug\net6.0-windows\CryptoRandNumbers.genruntimeconfig.cache
+C:\Users\rodri\source\repos\CryptoRandNumbers\CryptoRandNumbers\obj\Debug\net6.0-windows\ref\CryptoRandNumbers.dll
